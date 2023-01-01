@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Study/Android/StyleApp/animations/src/main/res/layout/activity_main.xml" value="0.3074074074074074" />
+        <entry key="..\:/Study/Android/StyleApp/animations/src/main/res/layout/fragment_main.xml" value="0.19114583333333332" />
+        <entry key="..\:/Study/Android/StyleApp/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Study/Android/StyleApp/app/src/main/res/layout/activity_main2.xml" value="0.1" />
+        <entry key="..\:/Study/Android/StyleApp/bottomsheet/src/main/res/layout/activity_main.xml" value="0.15416666666666667" />
+        <entry key="..\:/Study/Android/StyleApp/bottomsheet/src/main/res/layout/dialog_first.xml" value="0.16822916666666668" />
+        <entry key="..\:/Study/Android/StyleApp/bottomsheet/src/main/res/layout/fragment_first.xml" value="0.6" />
+        <entry key="..\:/Study/Android/StyleApp/bottomsheet/src/main/res/layout/fragment_second.xml" value="0.16822916666666668" />
+        <entry key="..\:/Study/Android/StyleApp/broadcast-receiver-a/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Study/Android/StyleApp/broadcast-receiver-b/src/main/res/layout/activity_main.xml" value="0.3074074074074074" />
+        <entry key="..\:/Study/Android/StyleApp/build-flavors/src/first/res/layout/activity_main.xml" value="0.18515704154002027" />
+        <entry key="..\:/Study/Android/StyleApp/build-flavors/src/main/res/layout/activity_main.xml" value="0.18515704154002027" />
+        <entry key="..\:/Study/Android/StyleApp/databinding/src/main/res/layout/activity_data_binding.xml" value="0.2759259259259259" />
+        <entry key="..\:/Study/Android/StyleApp/databinding/src/main/res/layout/activity_main.xml" value="0.11354166666666667" />
+        <entry key="..\:/Study/Android/StyleApp/databinding/src/main/res/layout/activity_main2.xml" value="0.18385416666666668" />
+        <entry key="..\:/Study/Android/StyleApp/databinding/src/main/res/layout/activity_view_model.xml" value="0.22" />
+        <entry key="..\:/Study/Android/StyleApp/databinding/src/main/res/layout/content_view_model.xml" value="0.2759259259259259" />
+        <entry key="..\:/Study/Android/StyleApp/databinding/src/main/res/layout/fragment_first.xml" value="0.18385416666666668" />
+        <entry key="..\:/Study/Android/StyleApp/databinding/src/main/res/layout/main_activity.xml" value="0.18385416666666668" />
+        <entry key="..\:/Study/Android/StyleApp/databinding/src/main/res/layout/main_fragment.xml" value="0.18385416666666668" />
+        <entry key="..\:/Study/Android/StyleApp/dialog/src/main/res/layout/activity_main.xml" value="0.3074074074074074" />
+        <entry key="..\:/Study/Android/StyleApp/dialog/src/main/res/layout/dialog_date.xml" value="0.17083333333333334" />
+        <entry key="..\:/Study/Android/StyleApp/dialog/src/main/res/layout/dialog_fullscrean.xml" value="0.21510416666666668" />
+        <entry key="..\:/Study/Android/StyleApp/dialog/src/main/res/layout/dialog_fullscreen.xml" value="0.3074074074074074" />
+        <entry key="..\:/Study/Android/StyleApp/dialog/src/main/res/layout/dialog_fullscreen_with_loader.xml" value="0.3074074074074074" />
+        <entry key="..\:/Study/Android/StyleApp/example-image-picker/src/main/res/drawable/load.xml" value="0.189" />
+        <entry key="..\:/Study/Android/StyleApp/example-image-picker/src/main/res/drawable/success.xml" value="0.189" />
+        <entry key="..\:/Study/Android/StyleApp/example-image-picker/src/main/res/layout/activity_main.xml" value="0.19166666666666668" />
+        <entry key="..\:/Study/Android/StyleApp/example-image-picker/src/main/res/layout/bottom_sheet_content.xml" value="0.16666666666666666" />
+        <entry key="..\:/Study/Android/StyleApp/example-image-picker/src/main/res/layout/photo_view_holder.xml" value="0.3074074074074074" />
+        <entry key="..\:/Study/Android/StyleApp/flow-1/src/main/res/layout/activity_main.xml" value="0.22592592592592592" />
+        <entry key="..\:/Study/Android/StyleApp/flow/src/main/res/layout/activity_main.xml" value="0.16666666666666666" />
+        <entry key="..\:/Study/Android/StyleApp/fragment/src/main/res/layout-land/activity_main.xml" value="0.15520833333333334" />
+        <entry key="..\:/Study/Android/StyleApp/fragment/src/main/res/layout/activity_first_fragment.xml" value="0.22" />
+        <entry key="..\:/Study/Android/StyleApp/fragment/src/main/res/layout/activity_main.xml" value="0.184375" />
+        <entry key="..\:/Study/Android/StyleApp/fragment/src/main/res/layout/fragment_blank.xml" value="0.184375" />
+        <entry key="..\:/Study/Android/StyleApp/fragment/src/main/res/layout/include_button.xml" value="0.184375" />
+        <entry key="..\:/Study/Android/StyleApp/fragment/src/main/res/layout/layout_fragment_1.xml" value="0.16666666666666666" />
+        <entry key="..\:/Study/Android/StyleApp/jetpack-navigation/src/main/res/layout/activity_main.xml" value="0.184375" />
+        <entry key="..\:/Study/Android/StyleApp/jetpack-navigation/src/main/res/layout/fragment_details.xml" value="0.2759259259259259" />
+        <entry key="..\:/Study/Android/StyleApp/jetpack-navigation/src/main/res/layout/fragment_feed.xml" value="0.234375" />
+        <entry key="..\:/Study/Android/StyleApp/jetpack-navigation/src/main/res/layout/fragment_likes.xml" value="0.234375" />
+        <entry key="..\:/Study/Android/StyleApp/jetpack-navigation/src/main/res/layout/fragment_login.xml" value="0.184375" />
+        <entry key="..\:/Study/Android/StyleApp/jetpack-navigation/src/main/res/layout/fragment_main.xml" value="0.184375" />
+        <entry key="..\:/Study/Android/StyleApp/jetpack-navigation/src/main/res/layout/fragment_settings.xml" value="0.234375" />
+        <entry key="..\:/Study/Android/StyleApp/jetpack-navigation/src/main/res/layout/fragment_splash.xml" value="0.184375" />
+        <entry key="..\:/Study/Android/StyleApp/jetpack-navigation/src/main/res/layout/fragment_super_details.xml" value="0.22291666666666668" />
+        <entry key="..\:/Study/Android/StyleApp/jetpack-navigation/src/main/res/menu/main_menu.xml" value="0.234375" />
+        <entry key="..\:/Study/Android/StyleApp/nfc/src/main/res/layout/activity_main.xml" value="0.3074074074074074" />
+        <entry key="..\:/Study/Android/StyleApp/nfcreader/src/main/res/layout/activity_main.xml" value="0.3074074074074074" />
+        <entry key="..\:/Study/Android/StyleApp/nfcreader/src/main/res/xml/techlist.xml" value="0.3074074074074074" />
+        <entry key="..\:/Study/Android/StyleApp/paging-3/src/main/res/layout/activity_main.xml" value="0.2203125" />
+        <entry key="..\:/Study/Android/StyleApp/paging-3/src/main/res/layout/recycler_item.xml" value="0.234375" />
+        <entry key="..\:/Study/Android/StyleApp/service/src/main/res/layout/activity_main.xml" value="0.3333333333333333" />
+        <entry key="..\:/Study/Android/StyleApp/test/src/main/res/layout-v28/activity_main.xml" value="0.2759259259259259" />
+        <entry key="..\:/Study/Android/StyleApp/test/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Study/Android/StyleApp/test/src/main/res/layout/activity_main2.xml" value="0.184375" />
+        <entry key="..\:/Study/Android/StyleApp/textview/src/main/res/layout/activity_main.xml" value="0.4466666666666667" />
+        <entry key="..\:/Study/Android/StyleApp/themes/src/main/res/layout/activity_main.xml" value="0.234375" />
+        <entry key="..\:/Study/Android/StyleApp/themes/src/main/res/layout/activity_second.xml" value="0.234375" />
+        <entry key="..\:/Study/Android/StyleApp/themes/src/main/res/layout/fragment_first.xml" value="0.234375" />
+        <entry key="..\:/Study/Android/StyleApp/topappbar/src/main/res/layout/activity_app_bar.xml" value="0.20729166666666668" />
+        <entry key="..\:/Study/Android/StyleApp/topappbar/src/main/res/layout/activity_main.xml" value="0.20729166666666668" />
+        <entry key="..\:/Study/Android/StyleApp/topappbar/src/main/res/layout/my_menu_layout.xml" value="0.20729166666666668" />
+        <entry key="..\:/Study/Android/StyleApp/topappbar/src/main/res/menu/acitivity_app_bar_menu.xml" value="0.20729166666666668" />
+        <entry key="..\:/Study/Android/StyleApp/topappbar/src/main/res/menu/activity_app_bar_menu.xml" value="0.2759259259259259" />
+        <entry key="..\:/Study/Android/StyleApp/viewpager/src/main/res/layout/activity_main.xml" value="0.3333333333333333" />
+        <entry key="..\:/Study/Android/StyleApp/viewpager/src/main/res/layout/fragment_view_pager.xml" value="0.35989583333333336" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

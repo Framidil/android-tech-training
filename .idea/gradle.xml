@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/animations" />
+            <option value="$PROJECT_DIR$/bottomsheet" />
+            <option value="$PROJECT_DIR$/broadcast-receiver-a" />
+            <option value="$PROJECT_DIR$/broadcast-receiver-b" />
+            <option value="$PROJECT_DIR$/build-flavors" />
+            <option value="$PROJECT_DIR$/dagger-first-attemp" />
+            <option value="$PROJECT_DIR$/dagger-hilt-attemp" />
+            <option value="$PROJECT_DIR$/dagger-second-attemp" />
+            <option value="$PROJECT_DIR$/databinding" />
+            <option value="$PROJECT_DIR$/dialog" />
+            <option value="$PROJECT_DIR$/example-image-picker" />
+            <option value="$PROJECT_DIR$/flow" />
+            <option value="$PROJECT_DIR$/flow-1" />
+            <option value="$PROJECT_DIR$/fragment" />
+            <option value="$PROJECT_DIR$/jetpack-compose" />
+            <option value="$PROJECT_DIR$/jetpack-navigation" />
+            <option value="$PROJECT_DIR$/logcat" />
+            <option value="$PROJECT_DIR$/nfc" />
+            <option value="$PROJECT_DIR$/nfcreader" />
+            <option value="$PROJECT_DIR$/paging-3" />
+            <option value="$PROJECT_DIR$/service" />
+            <option value="$PROJECT_DIR$/test" />
+            <option value="$PROJECT_DIR$/textview" />
+            <option value="$PROJECT_DIR$/themes" />
+            <option value="$PROJECT_DIR$/topappbar" />
+            <option value="$PROJECT_DIR$/viewpager" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">StyleApp</string>
+    <string name="first_string">First string</string>
+    <string name="second_string">Second string</string>
+    <string name="third_string">Third string</string>
+</resources>

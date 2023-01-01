@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AllCapsTextView">
+        <item name="android:textAllCaps">true</item>
+        <item name="android:layout_width">300sp</item>
+        <item name="android:background">@color/black</item>
+    </style>
+    <style name="A">
+
+        <item name="fontFamily">@font/roboto_font_family</item>
+        <item name="android:fontFamily">@font/roboto_bold</item>
+    </style>
+    <style name="A.firstStyle">
+        <item name="lineHeight">300sp</item>
+        <item name="android:lineHeight">300sp</item>
+
+        <item name="android:fontWeight">800</item>
+        <item name="fontWeight">800</item>
+        <item name="android:textFontWeight">800</item>
+    </style>
+    <style name="A.secondStyle">
+
+        <item name="lineHeight">200sp</item>
+        <item name="android:lineHeight">200sp</item>
+        <item name="android:fontWeight">400</item>
+        <item name="fontWeight">400</item>
+        <item name="android:textFontWeight">400</item>
+    </style>
+    <style name="A.thirdStyle">
+
+        <item name="lineHeight">100sp</item>
+        <item name="android:lineHeight">100sp</item>
+        <item name="android:fontWeight">100</item>
+        <item name="fontWeight">100</item>
+        <item name="android:textFontWeight">100</item>
+    </style>
+</resources>

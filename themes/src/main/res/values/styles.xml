@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Headline1" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">72sp</item>
+    </style>
+    <style name="Headline1.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="Headline1.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+</resources>

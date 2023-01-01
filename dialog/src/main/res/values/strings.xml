@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">dialog</string>
+    <string name="mtrl_picker_save">Сбросить</string>
+</resources>

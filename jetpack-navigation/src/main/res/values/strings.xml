@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">jetpack-navigation</string>
+    <string name="splash">Splash</string>
+    <string name="main">Main</string>
+    <string name="login">Login</string>
+    <string name="feed">Лента</string>
+    <string name="likes">Избранное</string>
+    <string name="settings">Настройки</string>
+</resources>

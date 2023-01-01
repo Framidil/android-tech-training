@@ -1,0 +1,34 @@
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+rootProject.name = "StyleApp"
+include ':test'
+include ':viewpager'
+include ':fragment'
+include ':topappbar'
+include ':jetpack-navigation'
+include ':themes'
+include ':databinding'
+include ':logcat'
+include ':flow'
+include ':paging-3'
+include ':nfcreader'
+include ':dialog'
+include ':dagger-first-attemp'
+include ':broadcast-receiver-a'
+include ':broadcast-receiver-b'
+include ':service'
+include ':nfc'
+include ':animations'
+include ':example-image-picker'
+include ':bottomsheet'
+include ':textview'
+include ':jetpack-compose'
+include ':flow-1'
+include ':build-flavors'
+include ':dagger-second-attemp'
+include ':dagger-hilt-attemp'
